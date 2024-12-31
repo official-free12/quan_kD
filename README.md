@@ -1,0 +1,6 @@
+# 全新微客农场复利理财完美运营版微客农场复利理财系统农夫果园理财源码农场投资理财
+
+售前须知<br>example.com，可复制性高，一旦发货，不接收退货退款；<br>example.com，所以目前不支持任何技术服务；<br>example.com，可联系店主：<br>商讨好合适的手工服务费，即可替您提供技术支持<br>example.com，不含安装费~<br>全新微客农场复利理财完美运营版微客农场复利理财系统,农夫果园,理财源码 农场投资理财<br>程序名称：微客农场复利理财系统,农夫果园,理财源码 农场投资理财<br>运行环境：example.com/example.com/example.com+Mysql<br>程序介绍：微客农场依托互联网，运用先进的营销理念，打造互联网+金融+复利+直销的完美闭环理财平台！<br>自动结算宠物产生的金币由于网页是触发型，需要有触发才能执行某种功能：比如点击按钮，才能执行某种功能；刷新页面才能执行某种功能……在没有触发的情况下，是不会自动执行程序代码的。而宠物将每天产生金币，这个必须是：网页自动执行和结算。解决方案有两个：1、购买服务器，在服务器里使用软件配置在固定的时间访问某个网页地址，通过这个网页进行金币的结算。从而实现：自动结算金币。这个方案需要有服务器，并且还需要复杂的配置（比如windows系统需要配置在计划任务里；而linux系统则需要另外配置），很麻烦。2、以巧妙的设计，让会员自己点击了网页进行结算，但会员却不知道是自己点击了才进行结算。这个方案可行，不需要复杂的配置，并且虚拟主机、服务器都具有通用性。所以，为了解决系统自动结算宠物产生的金币问题，程序这样设计：【会员在登录的时候，会自动结算该会员的宠物金币。会员不登录，则不结算。】（会员都不登录了，意味着会员用不上金币，不必结算该会员的金币，另一个也能节省网站空间的资源）。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/x8jRT" style="color: red;">https://mega-file.org/x8jRT</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
